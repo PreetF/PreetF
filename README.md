@@ -20,5 +20,6 @@
 ## <img height="20" width="50" src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" /> Let's Connect
 
 [![Let's Connect](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/preet-faldu-a10872315/)&nbsp;
-[![Let's Connect](https://skillicons.dev/icons?i=codeforces)](https://codeforces.com/profile/preetFaldu)&nbsp;
-[![Let's Connect](https://skillicons.dev/icons?i=leetcode)](https://leetcode.com/u/FalduPreet/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-blue?logo=codeforces&logoColor=white)](https://codeforces.com/profile/preetFaldu)&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/FalduPreet/)
+
